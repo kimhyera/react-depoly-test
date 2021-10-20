@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-depoly-test/static/css/main.be15656f.chunk.css",
-    "main.js": "/react-depoly-test/static/js/main.2adf953c.chunk.js",
-    "main.js.map": "/react-depoly-test/static/js/main.2adf953c.chunk.js.map",
+    "main.js": "/react-depoly-test/static/js/main.62a8e4a6.chunk.js",
+    "main.js.map": "/react-depoly-test/static/js/main.62a8e4a6.chunk.js.map",
     "runtime-main.js": "/react-depoly-test/static/js/runtime-main.b03f49e4.js",
     "runtime-main.js.map": "/react-depoly-test/static/js/runtime-main.b03f49e4.js.map",
     "static/js/2.cfa47b1b.chunk.js": "/react-depoly-test/static/js/2.cfa47b1b.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b03f49e4.js",
     "static/js/2.cfa47b1b.chunk.js",
     "static/css/main.be15656f.chunk.css",
-    "static/js/main.2adf953c.chunk.js"
+    "static/js/main.62a8e4a6.chunk.js"
   ]
 }
