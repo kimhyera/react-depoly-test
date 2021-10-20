@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/react-depoly-test/static/css/main.be15656f.chunk.css",
-    "main.js": "/react-depoly-test/static/js/main.62a8e4a6.chunk.js",
-    "main.js.map": "/react-depoly-test/static/js/main.62a8e4a6.chunk.js.map",
+    "main.js": "/react-depoly-test/static/js/main.b2801f1b.chunk.js",
+    "main.js.map": "/react-depoly-test/static/js/main.b2801f1b.chunk.js.map",
     "runtime-main.js": "/react-depoly-test/static/js/runtime-main.b03f49e4.js",
     "runtime-main.js.map": "/react-depoly-test/static/js/runtime-main.b03f49e4.js.map",
-    "static/js/2.cfa47b1b.chunk.js": "/react-depoly-test/static/js/2.cfa47b1b.chunk.js",
-    "static/js/2.cfa47b1b.chunk.js.map": "/react-depoly-test/static/js/2.cfa47b1b.chunk.js.map",
+    "static/js/2.63189834.chunk.js": "/react-depoly-test/static/js/2.63189834.chunk.js",
+    "static/js/2.63189834.chunk.js.map": "/react-depoly-test/static/js/2.63189834.chunk.js.map",
     "index.html": "/react-depoly-test/index.html",
     "static/css/main.be15656f.chunk.css.map": "/react-depoly-test/static/css/main.be15656f.chunk.css.map",
-    "static/js/2.cfa47b1b.chunk.js.LICENSE.txt": "/react-depoly-test/static/js/2.cfa47b1b.chunk.js.LICENSE.txt"
+    "static/js/2.63189834.chunk.js.LICENSE.txt": "/react-depoly-test/static/js/2.63189834.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b03f49e4.js",
-    "static/js/2.cfa47b1b.chunk.js",
+    "static/js/2.63189834.chunk.js",
     "static/css/main.be15656f.chunk.css",
-    "static/js/main.62a8e4a6.chunk.js"
+    "static/js/main.b2801f1b.chunk.js"
   ]
 }
