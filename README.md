@@ -13,3 +13,7 @@ React 배포 테스트 소스코드 입니다.
 
 - json server (fake api)
 - IIS server
+
+### 링크
+
+https://kimhyera.github.io/react-depoly-test/
