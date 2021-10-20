@@ -1,6 +1,6 @@
 # React deploy test
 
-React 배포 샘플 프로젝트 소스코드 입니다.
+React 배포 테스트 소스코드 입니다.
 
 ## 기술 스택
 

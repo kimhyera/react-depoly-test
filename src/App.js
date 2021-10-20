@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { BrowserRouter as HashRouter, Route, Switch } from 'react-router-dom';
 import Header from './components/header';
 import PostList from './components/postList';
 import Home from './components/home';
@@ -9,7 +9,7 @@ import Footer from './components/footer';
 function App() {
 	return (
 		<div className="App">
-			<Router>
+			<HashRouter>
 				<Header />
 				<Switch>
 					<Route exact path={['/', '/Home']}>
@@ -19,7 +19,7 @@ function App() {
 						<PostList />
 					</Route>
 				</Switch>
-			</Router>
+			</HashRouter>
 
 			<Footer />
 		</div>

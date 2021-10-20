@@ -7,7 +7,7 @@ const Home = (props) => {
 				<h2>Home</h2>
 
 				<section>
-					<h4>react에 업데이트</h4>
+					<h4>react에 업데이트 업데이트 자동 </h4>
 				</section>
 			</div>
 		</main>
