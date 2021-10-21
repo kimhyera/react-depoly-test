@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-github-pages-depoly/static/css/main.be15656f.chunk.css",
-    "main.js": "/react-github-pages-depoly/static/js/main.3176ab66.chunk.js",
-    "main.js.map": "/react-github-pages-depoly/static/js/main.3176ab66.chunk.js.map",
+    "main.js": "/react-github-pages-depoly/static/js/main.e788c6ef.chunk.js",
+    "main.js.map": "/react-github-pages-depoly/static/js/main.e788c6ef.chunk.js.map",
     "runtime-main.js": "/react-github-pages-depoly/static/js/runtime-main.50ee5a87.js",
     "runtime-main.js.map": "/react-github-pages-depoly/static/js/runtime-main.50ee5a87.js.map",
     "static/js/2.2de85a4f.chunk.js": "/react-github-pages-depoly/static/js/2.2de85a4f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.50ee5a87.js",
     "static/js/2.2de85a4f.chunk.js",
     "static/css/main.be15656f.chunk.css",
-    "static/js/main.3176ab66.chunk.js"
+    "static/js/main.e788c6ef.chunk.js"
   ]
 }
