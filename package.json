@@ -2,7 +2,7 @@
 	"name": "react-depoly-test",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://kimhyera.github.io/react-depoly-test/",
+	"homepage": "https://kimhyera.github.io/react-github-pages-depoly/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.14.1",
 		"@testing-library/react": "^11.2.7",
