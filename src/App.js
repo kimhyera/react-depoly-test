@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import { HashRouter, Route } from 'react-router-dom';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 //import Header from './components/header';
 import PostList from './components/postList';
@@ -11,25 +11,18 @@ import Header from './components/header';
 function App() {
 	return (
 		<div className="App">
-			<HashRouter>
+			<BrowserRouter basename={process.env.PUBLIC_URL}>
 				<Header />
-				{/*<Switch>
-					<Route
-						exact
-						path={['/react-depoly-test/', '/react-depoly-test/Home']}
-					>
+				<Switch>
+					<Route exact path={['/', '/Home']}>
 						<Home />
 					</Route>
 
-					<Route path="/react-depoly-test/PostList">
+					<Route path="/PostList">
 						<PostList />
 					</Route>
-				</Switch>*/}
-				<Route path={['/', '/Home']} exact={true} component={Home} />
-				<Route path="/PostList" component={PostList} />
-			</HashRouter>
-
-			<Footer />
+				</Switch>
+			</BrowserRouter>
 		</div>
 	);
 }
