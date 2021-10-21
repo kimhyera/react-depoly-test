@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-depoly-test/static/css/main.be15656f.chunk.css",
-    "main.js": "/react-depoly-test/static/js/main.b2801f1b.chunk.js",
-    "main.js.map": "/react-depoly-test/static/js/main.b2801f1b.chunk.js.map",
-    "runtime-main.js": "/react-depoly-test/static/js/runtime-main.b03f49e4.js",
-    "runtime-main.js.map": "/react-depoly-test/static/js/runtime-main.b03f49e4.js.map",
-    "static/js/2.63189834.chunk.js": "/react-depoly-test/static/js/2.63189834.chunk.js",
-    "static/js/2.63189834.chunk.js.map": "/react-depoly-test/static/js/2.63189834.chunk.js.map",
-    "index.html": "/react-depoly-test/index.html",
-    "static/css/main.be15656f.chunk.css.map": "/react-depoly-test/static/css/main.be15656f.chunk.css.map",
-    "static/js/2.63189834.chunk.js.LICENSE.txt": "/react-depoly-test/static/js/2.63189834.chunk.js.LICENSE.txt"
+    "main.css": "/react-github-pages-depoly/static/css/main.be15656f.chunk.css",
+    "main.js": "/react-github-pages-depoly/static/js/main.3176ab66.chunk.js",
+    "main.js.map": "/react-github-pages-depoly/static/js/main.3176ab66.chunk.js.map",
+    "runtime-main.js": "/react-github-pages-depoly/static/js/runtime-main.50ee5a87.js",
+    "runtime-main.js.map": "/react-github-pages-depoly/static/js/runtime-main.50ee5a87.js.map",
+    "static/js/2.2de85a4f.chunk.js": "/react-github-pages-depoly/static/js/2.2de85a4f.chunk.js",
+    "static/js/2.2de85a4f.chunk.js.map": "/react-github-pages-depoly/static/js/2.2de85a4f.chunk.js.map",
+    "index.html": "/react-github-pages-depoly/index.html",
+    "static/css/main.be15656f.chunk.css.map": "/react-github-pages-depoly/static/css/main.be15656f.chunk.css.map",
+    "static/js/2.2de85a4f.chunk.js.LICENSE.txt": "/react-github-pages-depoly/static/js/2.2de85a4f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b03f49e4.js",
-    "static/js/2.63189834.chunk.js",
+    "static/js/runtime-main.50ee5a87.js",
+    "static/js/2.2de85a4f.chunk.js",
     "static/css/main.be15656f.chunk.css",
-    "static/js/main.b2801f1b.chunk.js"
+    "static/js/main.3176ab66.chunk.js"
   ]
 }
