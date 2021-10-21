@@ -1,10 +1,10 @@
 import React from 'react';
 
-const PostList = (props) => {
+const Example = (props) => {
 	return (
 		<main>
 			<div className="container">
-				<h2>Posts Pages</h2>
+				<h2>Example Pages</h2>
 
 				<section></section>
 			</div>
@@ -12,4 +12,4 @@ const PostList = (props) => {
 	);
 };
 
-export default PostList;
+export default Example;
