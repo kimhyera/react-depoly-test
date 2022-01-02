@@ -6,7 +6,7 @@ const Example = (props) => {
 			<div className="container">
 				<h2>Example Pages</h2>
 
-				<section></section>
+				<section>2022.01.02 update</section>
 			</div>
 		</main>
 	);
